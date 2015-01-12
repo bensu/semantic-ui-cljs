@@ -1,14 +1,7 @@
 # semantic-ui
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+The latest version of [Semantic-ui](http://semantic-ui.com/) bundled in a JAR.
 
 ## License
 
-Copyright © 2015 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the MIT License.

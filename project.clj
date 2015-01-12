@@ -1,6 +1,5 @@
 (defproject semantic-ui "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
-  :license {:name "Eclipse Public License"
-            :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.6.0"]])
+  :description "The latest version of Semantic-ui in a JAR"
+  :url "http://semantic-ui.com/"
+  :license {:name "MIT License"
+            :url "http://opensource.org/licenses/MIT"})
